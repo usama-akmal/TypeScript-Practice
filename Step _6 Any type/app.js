@@ -1,0 +1,11 @@
+var varrr;
+varrr = { name: "usama" };
+console.log(varrr);
+varrr = [10, "Usama", false];
+console.log(varrr);
+varrr = 25;
+console.log(varrr);
+varrr = true;
+console.log(varrr);
+varrr = "Akmal";
+console.log(varrr);
